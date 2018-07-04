@@ -13,6 +13,7 @@ namespace HelloWorld
             Hello();
             Profile();
             Day();
+            Finish();
             Console.ReadLine();
         }
 
@@ -29,6 +30,11 @@ namespace HelloWorld
         public static void Day()
         {
             Console.WriteLine("Today is " + DateTime.Now.ToShortDateString());
+        }
+
+        public static void Finish()
+        {
+            Console.WriteLine("END");
         }
     }
 }
