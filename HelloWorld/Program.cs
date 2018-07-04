@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Hello();
             Profile();
+            Day();
             Finish();
             Console.ReadLine();
         }
@@ -24,6 +25,11 @@ namespace HelloWorld
         public static void Profile()
         {
             Console.WriteLine("I am Ngo Hong Phuc");
+        }
+
+        public static void Day()
+        {
+            Console.WriteLine("Today is " + DateTime.Now.ToShortDateString());
         }
 
         public static void Finish()
