@@ -4,3 +4,6 @@ D:\LotusApp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 D:\LotusApp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 D:\LotusApp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\LotusApp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\abc\Desktop\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\abc\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\abc\Desktop\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
